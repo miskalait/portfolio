@@ -26,7 +26,7 @@ const About = () => {
                     
                     <div className='sm:text-center py-8 max-w-[700px]'>
                         <p>
-                            Olen kiinnostunnut verkkosivujen suunnittelusta ja niiden toteuttamisesta. Yritän opetella useita eri tekniikoita ja tapoja luoda parempia ja hienompia verkkosivuja.
+                            Olen kiinnostunut verkkosivujen suunnittelusta ja niiden toteuttamisesta. Yritän opetella useita eri tekniikoita ja tapoja luoda parempia ja hienompia verkkosivuja.
                         </p>
                     </div>
                 </div>
