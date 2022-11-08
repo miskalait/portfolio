@@ -1,4 +1,5 @@
 Kotisivut
+Tehty React:ia ja TailWind CSS käyttäen
 
 https://www.miskalaitila.com/
 
